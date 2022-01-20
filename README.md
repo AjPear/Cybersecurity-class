@@ -4,7 +4,8 @@ projects from cybersecurity class
 
 The files in this repository were used to configure the network depicted below.
 
-!(Images/Project_1_network.png)
+(https://user-images.githubusercontent.com/90866513/150437674-c3d20889-0f28-4472-9fe5-72122b25cadd.png)
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
